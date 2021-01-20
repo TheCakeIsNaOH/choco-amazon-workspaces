@@ -3,7 +3,7 @@
 [![Build status](https://img.shields.io/appveyor/ci/virtualex-itv/choco-amazon-workspaces/master.svg?logo=appveyor)](https://ci.appveyor.com/project/virtualex-itv/choco-amazon-workspaces)
 
 ![Supported OS](https://img.shields.io/badge/os-windows-blue.svg)
-![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)
 
 #### VIRTUALEX'S PACKAGE NOTES:
 
@@ -11,4 +11,4 @@
 Chocolatey package for Amazon Workspaces
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/a1639e0244c93d814cdbd898a2e4ba2790266573/_img/choco-aws-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/28388c18e8cbe067e8b5d8b35c4520f7e4702351/_img/choco-aws-test.png)
